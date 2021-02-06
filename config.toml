@@ -1,5 +1,5 @@
 baseurl = "https://RS-SiyuanWang.github.io"
-title = "Rich Youngkin"
+title = "Siyuan's Blog"
 theme = "hugo-theme-cleanwhite-rsy"
 languageCode = "en-us"
 paginate = 5000 #frontpage pagination
@@ -11,14 +11,14 @@ paginate = 5000 #frontpage pagination
 
 [params]
   header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  title = "Software Engineering"
+  title = "Welcome to my Blog"
   slogan = "$ grep -rni \"The how's and why's\" ."
-  SEOTitle = "Rich Youngkin Blog"
-  keyword = "Rich, Youngkin, Raspberry, Pi, Docker, Kubernetes, Go, Golang, Microservice"
+  SEOTitle = " Blog"
+  keyword = "Siyuan, Wang, Remote Sensing, Vegetation Dynamic"
  
   # Sidebar settings
-  sidebar_about_description = "Father, Husband, Skier, Cyclist, and, oh yeah, Software Developer"
-  sidebar_avatar = "images/MeAtJackson.jpeg"
+  sidebar_about_description = "Phd Student"
+  sidebar_avatar = "static/Avatar.jpg"
   about_me = true
 
   featured_tags = true 
@@ -35,9 +35,5 @@ paginate = 5000 #frontpage pagination
 
   [params.social]
   rss            = true
-  email          = "rich.youngkin@gmail.com"
-  linkedin       = "https://www.linkedin.com/in/richard-youngkin-0749763"
-  github         = "https://github.com/youngkin"
-  medium         = "https://medium.com/@RichYoungkin"
-  stackoverflow  = "https://stackoverflow.com/users/2646870/rich"
-  reddit         = "https://www.reddit.com/user/elevation5280"
+  email          = "swang@bgc-jena.mpg.de"
+  github         = "https://github.com/RS-SiyuanWang"

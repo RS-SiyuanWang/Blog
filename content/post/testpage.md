@@ -11,4 +11,8 @@ categories:  ["Tech" ]
 # 第一篇博客尝试
 
 ## Title2 test
-![test](https://imgur.com/I8mQg3z)
+![Imgur](https://imgur.com/I8mQg3z.png
+
+### **static img**
+
+![img](git.png)

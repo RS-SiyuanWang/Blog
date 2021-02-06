@@ -16,3 +16,6 @@ categories:  ["Tech" ]
 ### **static img**
 
 ![img](/static/_images/git.png)
+![img](/static/git.png)
+![img](git.png)
+![img](/static/images/git.png)

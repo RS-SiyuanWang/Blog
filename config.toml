@@ -11,9 +11,9 @@ paginate = 5000 #frontpage pagination
 
 [params]
   header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  title = "Welcome to my Blog"
-  slogan = "$ grep -rni \"The how's and why's\" ."
-  SEOTitle = " Blog"
+  title = "王子明大傻逼"
+  slogan = "Welcome to My Blog"
+  SEOTitle = " Welcome!"
   keyword = "Siyuan, Wang, Remote Sensing, Vegetation Dynamic"
  
   # Sidebar settings

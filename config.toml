@@ -11,7 +11,7 @@ paginate = 5000 #frontpage pagination
 
 [params]
   # header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  header_image = "./image/Institute2.jpg"
+  header_image = "./image/Institute2.png"
   title = "Idle folks lack no excuses."
   slogan = "Welcome to My Blog"
   SEOTitle = "思远的博客"

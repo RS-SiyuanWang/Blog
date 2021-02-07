@@ -11,14 +11,14 @@ paginate = 5000 #frontpage pagination
 
 [params]
   # header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  header_image = "Institute.jpg"
+  header_image = "./image/Institute.jpg"
   title = "Idle folks lack no excuses."
   slogan = "Welcome to My Blog"
-  # SEOTitle = " 思远的博客"
+  SEOTitle = "思远的博客"
   keyword = "Siyuan, Wang, Remote Sensing, Vegetation Dynamic"
  
   # Sidebar settings
-  sidebar_about_description = "Phd Candidate at Max Planck Institute"
+  sidebar_about_description = "Phd Candidate at MPI"
   sidebar_avatar = "Avatar.jpg"
   about_me = true
 

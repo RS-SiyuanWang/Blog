@@ -10,14 +10,15 @@ paginate = 5000 #frontpage pagination
       unsafe = true
 
 [params]
-  header_image = "images/main_go_wideandtall_darklayer.jpeg"
-  title = "王子明大傻逼"
+  # header_image = "images/main_go_wideandtall_darklayer.jpeg"
+  header_image = "Institute.jpg"
+  title = "Idle folks lack no excuses."
   slogan = "Welcome to My Blog"
-  SEOTitle = " Welcome!"
+  # SEOTitle = " 思远的博客"
   keyword = "Siyuan, Wang, Remote Sensing, Vegetation Dynamic"
  
   # Sidebar settings
-  sidebar_about_description = "Phd Student"
+  sidebar_about_description = "Phd Candidate at Max Planck Institute"
   sidebar_avatar = "Avatar.jpg"
   about_me = true
 
